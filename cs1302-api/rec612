@@ -1,0 +1,137 @@
+cs1302-api:
+total 64
+-rw-r--r--. 1 myid  6658 May  1 18:14 APPENDIX_API.rst
+-rw-r--r--. 1 myid  4205 May  1 18:14 APPENDIX_GIT.rst
+drwxr-xr-x. 2 myid    59 May  5 21:27 meta
+-rw-r--r--. 1 myid  8370 May  1 18:14 pom.xml
+-rwxr-xr-x. 1 myid   105 May  1 18:14 prepare-merge.sh
+-rw-r--r--. 1 myid 26264 May  5 21:08 README.rst
+-rw-r--r--. 1 myid     0 May  5 21:31 rec612
+drwxr-xr-x. 2 myid   143 May  5 02:07 resources
+-rwxr-xr-x. 1 myid   119 May  1 18:14 run.sh
+drwxr-xr-x. 4 myid    42 May  1 18:14 src
+drwxr-xr-x. 5 myid   104 May  5 21:12 target
+
+cs1302-api/meta:
+total 8
+-rw-r--r--. 1 myid  205 May  5 02:07 ATTRIBUTION.md
+-rw-r--r--. 1 myid 1971 May  5 21:27 DEADLINE.md
+
+cs1302-api/resources:
+total 2196
+-rw-r--r--. 1 myid      98 May  5 02:07 config.properties
+-rw-r--r--. 1 myid    6055 May  3 21:02 default.png
+-rw-r--r--. 1 myid  582183 May  1 18:14 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  1 18:14 readme-newrepo.png
+-rw-r--r--. 1 myid  103102 May  3 21:02 sunset.png
+
+cs1302-api/src:
+total 0
+drwxr-xr-x. 3 myid 26 May  1 18:14 main
+drwxr-xr-x. 3 myid 50 May  1 18:14 site
+
+cs1302-api/src/main:
+total 0
+drwxr-xr-x. 3 myid 44 May  1 18:14 java
+
+cs1302-api/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  17 May  1 18:14 cs1302
+-rw-r--r--. 1 myid 373 May  1 18:14 module-info.java
+
+cs1302-api/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  5 21:08 api
+
+cs1302-api/src/main/java/cs1302/api:
+total 80
+-rw-r--r--. 1 myid 16585 May  5 21:08 ApiApp.java
+-rw-r--r--. 1 myid  1285 May  1 18:14 ApiDriver.java
+-rw-r--r--. 1 myid   247 May  5 21:08 Date.java
+-rw-r--r--. 1 myid   210 May  5 21:08 Embedded.java
+-rw-r--r--. 1 myid   270 May  5 21:08 EmbeddedTwo.java
+-rw-r--r--. 1 myid   354 May  5 21:08 Event.java
+-rw-r--r--. 1 myid   204 May  5 21:08 Image.java
+-rw-r--r--. 1 myid   246 May  5 21:08 Location.java
+-rw-r--r--. 1 myid  4332 May  1 18:14 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid  1670 May  1 18:14 PropertiesExample.java
+-rw-r--r--. 1 myid   166 May  5 21:08 Results.java
+-rw-r--r--. 1 myid   238 May  5 21:08 Start.java
+-rw-r--r--. 1 myid   154 May  5 21:08 SunsetResponse.java
+-rw-r--r--. 1 myid   247 May  5 21:08 TicketmasterResponse.java
+-rw-r--r--. 1 myid   161 May  5 21:08 Venue.java
+
+cs1302-api/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 May  1 18:14 markdown
+-rw-r--r--. 1 myid 424 May  1 18:14 site.xml
+
+cs1302-api/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 May  1 18:14 index.md.vm
+
+cs1302-api/target:
+total 4
+drwxr-xr-x. 3 myid  190 May  5 21:12 classes
+drwxr-xr-x. 3 myid   25 May  5 21:12 generated-sources
+drwxr-xr-x. 3 myid   43 May  5 21:12 maven-status
+-rw-r--r--. 1 myid 1271 May  5 21:12 modulepath
+
+cs1302-api/target/classes:
+total 2200
+-rw-r--r--. 1 myid      98 May  5 21:12 config.properties
+drwxr-xr-x. 3 myid      25 May  5 21:12 cs1302
+-rw-r--r--. 1 myid    6055 May  5 21:12 default.png
+-rw-r--r--. 1 myid     354 May  5 21:12 module-info.class
+-rw-r--r--. 1 myid  582183 May  5 21:12 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  5 21:12 readme-newrepo.png
+-rw-r--r--. 1 myid  103102 May  5 21:12 sunset.png
+
+cs1302-api/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  5 21:12 api
+
+cs1302-api/target/classes/cs1302/api:
+total 88
+-rw-r--r--. 1 myid 17630 May  5 21:12 ApiApp.class
+-rw-r--r--. 1 myid  1503 May  5 21:12 ApiDriver.class
+-rw-r--r--. 1 myid   336 May  5 21:12 Date.class
+-rw-r--r--. 1 myid   310 May  5 21:12 Embedded.class
+-rw-r--r--. 1 myid   319 May  5 21:12 EmbeddedTwo.class
+-rw-r--r--. 1 myid   544 May  5 21:12 Event.class
+-rw-r--r--. 1 myid   297 May  5 21:12 Image.class
+-rw-r--r--. 1 myid   314 May  5 21:12 Location.class
+-rw-r--r--. 1 myid  5993 May  5 21:12 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid   493 May  5 21:12 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid   617 May  5 21:12 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid  1680 May  5 21:12 PropertiesExample.class
+-rw-r--r--. 1 myid   324 May  5 21:12 Results.class
+-rw-r--r--. 1 myid   342 May  5 21:12 Start.class
+-rw-r--r--. 1 myid   330 May  5 21:12 SunsetResponse.class
+-rw-r--r--. 1 myid   462 May  5 21:12 TicketmasterResponse.class
+-rw-r--r--. 1 myid   341 May  5 21:12 Venue.class
+
+cs1302-api/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 May  5 21:12 annotations
+
+cs1302-api/target/generated-sources/annotations:
+total 0
+
+cs1302-api/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 May  5 21:12 maven-compiler-plugin
+
+cs1302-api/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 May  5 21:12 compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 May  5 21:12 default-compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid  541 May  5 21:12 createdFiles.lst
+-rw-r--r--. 1 myid 1376 May  5 21:12 inputFiles.lst
+/home/myid/sk83753/cs1302-projects/cs1302-api:/home/myid/csci-1302
